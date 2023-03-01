@@ -1,0 +1,104 @@
+
+
+
+h1  {position: fixed;
+    
+   left: 30%;
+    border-color: blanchedalmond;
+    border-style: solid;
+    border-width: 1px;
+    box-sizing:border-box;
+    
+    
+}
+#Mi{
+   position: fixed;
+   left:  3%;
+   bottom: 78%;
+   font-size:xx-large;
+}
+#Desarrollo{
+    position: fixed;
+   left:  3%;
+   bottom: 48%;
+   font-size: x-large;
+}
+body {
+    border: wheat;
+    
+    border-style: solid;
+    min-height:100%;
+    max-width: 100%;
+    background-color: #6591DC;
+    margin:   0 auto;
+}
+#perfil{
+    position: fixed;
+    top: 20%;
+    margin-left: 70%;
+    box-sizing: border-box;
+    width: 400px;
+    height: 450px;
+    border-width: 2px;
+    border-style: groove;
+    border-color: wheat;
+    font-size: xx-large;
+    
+}
+#academias{
+    position:fixed;
+    bottom: 27%;
+    right: 40%;
+    font-size: xx-large;
+}
+
+#tecnologias {
+    position: fixed;
+    bottom: 17%;
+    left: 10%;
+    font-size: xx-large;
+   
+}
+footer {
+    position:fixed ;
+      top: 95%; 
+      left: 3%;
+  }
+  #top, #bottom, #left, #right {
+	background: #D1D3D6;
+	position: fixed;
+	}
+	#left, #right {
+		top: 0; bottom: 0;
+		width: 15px;
+		}
+		#left { left: 0; }
+		#right { right: 0; }
+		
+	#top, #bottom {
+		left: 0; right: 0;
+		height: 15px;
+		}
+		#top { top: 0; }
+		#bottom { bottom: 0; }
+        
+        
+.hide{
+    display: none;
+}
+
+.show{
+    display:block;
+}
+
+
+#btnleermas {position:fixed;
+bottom: 40%; right: 50%;
+font-size: x-large;
+}
+#btntecno{
+    position: fixed;
+    bottom: 40%;
+    left: 10%;
+    font-size: x-large;
+}
